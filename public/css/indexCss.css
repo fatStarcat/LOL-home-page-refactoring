@@ -5,13 +5,13 @@
 }
 /*box*/
 .box{
-    width: 100%;
+    width: 1349px;
     //overflow: hidden;
     background-color: #f7f8f8;
 }
 /*头部*/
 .head{
-    width: 100%;
+    width: 1349px;
     height: 80px;
     background-color: #020202;
     position: relative;
