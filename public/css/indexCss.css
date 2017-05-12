@@ -6,8 +6,8 @@
 /*box*/
 .box{
     width: 1349px;
-    height:2680px;
-    overflow-x: hidden;
+    //height:2680px;
+    //overflow-x: hidden;
     background-color: #f7f8f8;
 }
 /*头部*/
