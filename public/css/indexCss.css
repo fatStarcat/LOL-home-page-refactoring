@@ -6,7 +6,7 @@
 /*box*/
 .box{
     width: 1349px;
-    overflow: hidden;
+    //overflow: hidden;
     background-color: #f7f8f8;
 }
 /*头部*/
